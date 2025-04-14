@@ -1,0 +1,119 @@
+name: Spiders --> losses in the 1980s: 3
+name: Waves --> losses in the 1980s: 2
+name: Rams --> losses in the 1980s: 4
+name: Gators --> losses in the 1980s: 3
+name: Scarlet Knights --> losses in the 1980s: 1
+name: Cavaliers --> losses in the 1980s: 4
+name: Huskies --> losses in the 1980s: 6
+name: Owls --> losses in the 1980s: 5
+name: Hawks --> losses in the 1980s: 1
+name: Privateers --> losses in the 1980s: 1
+name: Hoosiers --> losses in the 1980s: 4
+name: Monarchs --> losses in the 1980s: 2
+name: Racers --> losses in the 1980s: 2
+name: Horned Frogs --> losses in the 1980s: 1
+name: Musketeers --> losses in the 1980s: 5
+name: Friars --> losses in the 1980s: 3
+name: Roadrunners --> losses in the 1980s: 1
+name: Chippewas --> losses in the 1980s: 1
+name: Thundering Herd --> losses in the 1980s: 2
+name: Dragons --> losses in the 1980s: 1
+name: Colonials --> losses in the 1980s: 2
+name: Tigers --> losses in the 1980s: 26
+name: Delta Devils --> losses in the 1980s: 1
+name: Boilermakers --> losses in the 1980s: 5
+name: Golden Eagles --> losses in the 1980s: 1
+name: Aggies --> losses in the 1980s: 7
+name: 49ers --> losses in the 1980s: 1
+name: Blue Raiders --> losses in the 1980s: 3
+name: Stags --> losses in the 1980s: 2
+name: Gauchos --> losses in the 1980s: 2
+name: Bruins --> losses in the 1980s: 3
+name: Hilltoppers --> losses in the 1980s: 2
+name: Blazers --> losses in the 1980s: 4
+name: Mustangs --> losses in the 1980s: 2
+name: Rebels --> losses in the 1980s: 5
+name: Governors --> losses in the 1980s: 1
+name: Terrapins --> losses in the 1980s: 3
+name: Cardinal --> losses in the 1980s: 1
+name: Jayhawks --> losses in the 1980s: 4
+name: Lions --> losses in the 1980s: 3
+name: Dolphins --> losses in the 1980s: 1
+name: Zips --> losses in the 1980s: 1
+name: Big Red --> losses in the 1980s: 1
+name: Flyers --> losses in the 1980s: 2
+name: Aztecs --> losses in the 1980s: 1
+name: Beavers --> losses in the 1980s: 4
+name: Yellow Jackets --> losses in the 1980s: 6
+name: Braves --> losses in the 1980s: 2
+name: Hoyas --> losses in the 1980s: 6
+name: Panthers --> losses in the 1980s: 5
+name: Explorers --> losses in the 1980s: 3
+name: Hokies --> losses in the 1980s: 2
+name: Spartans --> losses in the 1980s: 3
+name: Trojans --> losses in the 1980s: 4
+name: Red Foxes --> losses in the 1980s: 2
+name: Eagles --> losses in the 1980s: 4
+name: Blue Devils --> losses in the 1980s: 6
+name: Golden Bears --> losses in the 1980s: 1
+name: Fighting Irish --> losses in the 1980s: 6
+name: Fighting Illini --> losses in the 1980s: 6
+name: Wolfpack --> losses in the 1980s: 5
+name: Pirates --> losses in the 1980s: 2
+name: Midshipmen --> losses in the 1980s: 3
+name: Terriers --> losses in the 1980s: 2
+name: Vandals --> losses in the 1980s: 2
+name: Buccaneers --> losses in the 1980s: 2
+name: Bobcats --> losses in the 1980s: 2
+name: Miners --> losses in the 1980s: 6
+name: Wildcats --> losses in the 1980s: 18
+name: Bengals --> losses in the 1980s: 1
+name: Redbirds --> losses in the 1980s: 2
+name: Volunteers --> losses in the 1980s: 1
+name: Longhorns --> losses in the 1980s: 2
+name: Jaguars --> losses in the 1980s: 5
+name: Cougars --> losses in the 1980s: 5
+name: Utes --> losses in the 1980s: 1
+name: Red Storm --> losses in the 1980s: 5
+name: Seminoles --> losses in the 1980s: 2
+name: Cyclones --> losses in the 1980s: 4
+name: Mountain Hawks --> losses in the 1980s: 2
+name: Saints --> losses in the 1980s: 1
+name: Toreros --> losses in the 1980s: 1
+name: Orange --> losses in the 1980s: 6
+name: Bluejays --> losses in the 1980s: 1
+name: Wolverines --> losses in the 1980s: 5
+name: Warhawks --> losses in the 1980s: 2
+name: Bulls --> losses in the 1980s: 1
+name: Cornhuskers --> losses in the 1980s: 1
+name: Sooners --> losses in the 1980s: 6
+name: Tar Heels --> losses in the 1980s: 6
+name: Knights --> losses in the 1980s: 2
+name: Mountaineers --> losses in the 1980s: 3
+name: Golden Hurricane --> losses in the 1980s: 3
+name: Bears --> losses in the 1980s: 7
+name: Commodores --> losses in the 1980s: 2
+name: Mean Green --> losses in the 1980s: 1
+name: Mocs --> losses in the 1980s: 1
+name: Cardinals --> losses in the 1980s: 6
+name: Ramblers --> losses in the 1980s: 1
+name: Shockers --> losses in the 1980s: 3
+name: Broncos --> losses in the 1980s: 2
+name: Buckeyes --> losses in the 1980s: 3
+name: Crimson Tide --> losses in the 1980s: 5
+name: Quakers --> losses in the 1980s: 2
+name: Razorbacks --> losses in the 1980s: 4
+name: Golden Gophers --> losses in the 1980s: 2
+name: Hawkeyes --> losses in the 1980s: 5
+name: Vikings --> losses in the 1980s: 1
+name: Aces --> losses in the 1980s: 1
+name: Gaels --> losses in the 1980s: 2
+name: Cowboys --> losses in the 1980s: 3
+name: Gamecocks --> losses in the 1980s: 1
+name: Bulldogs --> losses in the 1980s: 7
+name: Wolf Pack --> losses in the 1980s: 1
+name: Bison --> losses in the 1980s: 2
+name: Red Raiders --> losses in the 1980s: 2
+name: Blue Demons --> losses in the 1980s: 5
+name: RedHawks --> losses in the 1980s: 2
+name: Patriots --> losses in the 1980s: 1

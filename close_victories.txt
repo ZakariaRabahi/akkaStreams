@@ -1,0 +1,113 @@
+name: Spiders --> number of close victories: 5
+name: Rams --> number of close victories: 5
+name: Midshipmen --> number of close victories: 1
+name: Cavaliers --> number of close victories: 3
+name: Huskies --> number of close victories: 16
+name: Owls --> number of close victories: 3
+name: Hawks --> number of close victories: 6
+name: Privateers --> number of close victories: 1
+name: Hoosiers --> number of close victories: 8
+name: Monarchs --> number of close victories: 1
+name: Racers --> number of close victories: 2
+name: Minutemen --> number of close victories: 2
+name: Musketeers --> number of close victories: 8
+name: Friars --> number of close victories: 2
+name: Demons --> number of close victories: 2
+name: Nittany Lions --> number of close victories: 1
+name: Catamounts --> number of close victories: 1
+name: Colonials --> number of close victories: 3
+name: Tigers --> number of close victories: 30
+name: Boilermakers --> number of close victories: 11
+name: Golden Eagles --> number of close victories: 6
+name: Aggies --> number of close victories: 5
+name: Gauchos --> number of close victories: 1
+name: Bruins --> number of close victories: 14
+name: Hilltoppers --> number of close victories: 6
+name: Crimson --> number of close victories: 1
+name: Buffaloes --> number of close victories: 1
+name: Blazers --> number of close victories: 5
+name: Rebels --> number of close victories: 10
+name: Governors --> number of close victories: 1
+name: Terrapins --> number of close victories: 8
+name: Hurricanes --> number of close victories: 2
+name: Cardinal --> number of close victories: 5
+name: Jayhawks --> number of close victories: 15
+name: Lions --> number of close victories: 2
+name: Billikens --> number of close victories: 3
+name: Flyers --> number of close victories: 4
+name: Aztecs --> number of close victories: 1
+name: Yellow Jackets --> number of close victories: 11
+name: Braves --> number of close victories: 1
+name: Hoyas --> number of close victories: 8
+name: Panthers --> number of close victories: 9
+name: Explorers --> number of close victories: 2
+name: Hokies --> number of close victories: 1
+name: Eagles --> number of close victories: 7
+name: Trojans --> number of close victories: 5
+name: Spartans --> number of close victories: 14
+name: Lobos --> number of close victories: 3
+name: Blue Devils --> number of close victories: 17
+name: Golden Bears --> number of close victories: 6
+name: Fighting Irish --> number of close victories: 7
+name: Fighting Illini --> number of close victories: 4
+name: Wolfpack --> number of close victories: 6
+name: Pirates --> number of close victories: 6
+name: Bobcats --> number of close victories: 1
+name: Miners --> number of close victories: 2
+name: Wildcats --> number of close victories: 45
+name: Redbirds --> number of close victories: 2
+name: Volunteers --> number of close victories: 6
+name: Longhorns --> number of close victories: 10
+name: Jaguars --> number of close victories: 1
+name: Ducks --> number of close victories: 7
+name: Golden Flashes --> number of close victories: 2
+name: Red Storm --> number of close victories: 3
+name: Titans --> number of close victories: 2
+name: Seminoles --> number of close victories: 3
+name: Utes --> number of close victories: 5
+name: Green Wave --> number of close victories: 2
+name: Gators --> number of close victories: 6
+name: Lumberjacks --> number of close victories: 1
+name: Cyclones --> number of close victories: 6
+name: Mountain Hawks --> number of close victories: 1
+name: Saints --> number of close victories: 3
+name: Toreros --> number of close victories: 1
+name: Orange --> number of close victories: 16
+name: Wolverines --> number of close victories: 21
+name: Bluejays --> number of close victories: 4
+name: Badgers --> number of close victories: 11
+name: Sooners --> number of close victories: 6
+name: Mountaineers --> number of close victories: 4
+name: Tar Heels --> number of close victories: 14
+name: Golden Hurricane --> number of close victories: 2
+name: Bears --> number of close victories: 3
+name: Sycamores --> number of close victories: 1
+name: Ragin' Cajuns --> number of close victories: 1
+name: Commodores --> number of close victories: 3
+name: Mocs --> number of close victories: 1
+name: Cardinals --> number of close victories: 13
+name: Ramblers --> number of close victories: 1
+name: Seahawks --> number of close victories: 1
+name: Phoenix --> number of close victories: 1
+name: Shockers --> number of close victories: 2
+name: Broncos --> number of close victories: 2
+name: Buckeyes --> number of close victories: 8
+name: Crimson Tide --> number of close victories: 6
+name: Bearcats --> number of close victories: 5
+name: Crusaders --> number of close victories: 2
+name: Razorbacks --> number of close victories: 8
+name: Golden Gophers --> number of close victories: 2
+name: Hawkeyes --> number of close victories: 6
+name: Vikings --> number of close victories: 1
+name: Aces --> number of close victories: 1
+name: Cowboys --> number of close victories: 5
+name: Bulldogs --> number of close victories: 18
+name: Salukis --> number of close victories: 1
+name: Demon Deacons --> number of close victories: 7
+name: Wolf Pack --> number of close victories: 1
+name: Bison --> number of close victories: 3
+name: Red Raiders --> number of close victories: 3
+name: Blue Demons --> number of close victories: 3
+name: Sun Devils --> number of close victories: 1
+name: RedHawks --> number of close victories: 1
+name: Patriots --> number of close victories: 3

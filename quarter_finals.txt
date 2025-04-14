@@ -1,0 +1,40 @@
+name: Huskies --> number of quarter-finals reached: 9
+name: Hoosiers --> number of quarter-finals reached: 5
+name: Rams --> number of quarter-finals reached: 1
+name: Tigers --> number of quarter-finals reached: 5
+name: Golden Eagles --> number of quarter-finals reached: 1
+name: Bruins --> number of quarter-finals reached: 6
+name: Rebels --> number of quarter-finals reached: 4
+name: Spartans --> number of quarter-finals reached: 9
+name: Wildcats --> number of quarter-finals reached: 23
+name: Gators --> number of quarter-finals reached: 8
+name: Orange --> number of quarter-finals reached: 8
+name: Cardinals --> number of quarter-finals reached: 6
+name: Razorbacks --> number of quarter-finals reached: 5
+name: Bulldogs --> number of quarter-finals reached: 7
+name: Patriots --> number of quarter-finals reached: 1
+name: Minutemen --> number of quarter-finals reached: 1
+name: Friars --> number of quarter-finals reached: 1
+name: Terrapins --> number of quarter-finals reached: 3
+name: Cardinal --> number of quarter-finals reached: 1
+name: Jayhawks --> number of quarter-finals reached: 13
+name: Yellow Jackets --> number of quarter-finals reached: 3
+name: Hoyas --> number of quarter-finals reached: 3
+name: Blue Devils --> number of quarter-finals reached: 21
+name: Fighting Illini --> number of quarter-finals reached: 3
+name: Pirates --> number of quarter-finals reached: 2
+name: Longhorns --> number of quarter-finals reached: 1
+name: Ducks --> number of quarter-finals reached: 1
+name: Utes --> number of quarter-finals reached: 2
+name: Red Storm --> number of quarter-finals reached: 1
+name: Badgers --> number of quarter-finals reached: 4
+name: Wolverines --> number of quarter-finals reached: 8
+name: Sooners --> number of quarter-finals reached: 4
+name: Mountaineers --> number of quarter-finals reached: 1
+name: Tar Heels --> number of quarter-finals reached: 16
+name: Shockers --> number of quarter-finals reached: 1
+name: Buckeyes --> number of quarter-finals reached: 4
+name: Bearcats --> number of quarter-finals reached: 1
+name: Golden Gophers --> number of quarter-finals reached: 1
+name: Cowboys --> number of quarter-finals reached: 2
+name: Gamecocks --> number of quarter-finals reached: 1

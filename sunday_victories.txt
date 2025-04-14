@@ -1,0 +1,79 @@
+name: Spiders --> number of wins on Sunday: 1
+name: Rams --> number of wins on Sunday: 3
+name: Nittany Lions --> number of wins on Sunday: 1
+name: Big Red --> number of wins on Sunday: 1
+name: Midshipmen --> number of wins on Sunday: 1
+name: Volunteers --> number of wins on Sunday: 4
+name: Gators --> number of wins on Sunday: 9
+name: Cavaliers --> number of wins on Sunday: 2
+name: Huskies --> number of wins on Sunday: 3
+name: Owls --> number of wins on Sunday: 3
+name: Hoosiers --> number of wins on Sunday: 5
+name: Minutemen --> number of wins on Sunday: 2
+name: Musketeers --> number of wins on Sunday: 5
+name: Friars --> number of wins on Sunday: 1
+name: Colonials --> number of wins on Sunday: 1
+name: Tigers --> number of wins on Sunday: 12
+name: Boilermakers --> number of wins on Sunday: 3
+name: Golden Eagles --> number of wins on Sunday: 2
+name: Aggies --> number of wins on Sunday: 2
+name: Bruins --> number of wins on Sunday: 7
+name: Hilltoppers --> number of wins on Sunday: 1
+name: Blazers --> number of wins on Sunday: 1
+name: Rebels --> number of wins on Sunday: 6
+name: Terrapins --> number of wins on Sunday: 5
+name: Hurricanes --> number of wins on Sunday: 2
+name: Cardinal --> number of wins on Sunday: 4
+name: Jayhawks --> number of wins on Sunday: 16
+name: Lions --> number of wins on Sunday: 1
+name: Yellow Jackets --> number of wins on Sunday: 5
+name: Braves --> number of wins on Sunday: 1
+name: Hoyas --> number of wins on Sunday: 6
+name: Panthers --> number of wins on Sunday: 4
+name: Explorers --> number of wins on Sunday: 1
+name: Eagles --> number of wins on Sunday: 4
+name: Spartans --> number of wins on Sunday: 14
+name: Trojans --> number of wins on Sunday: 1
+name: Blue Devils --> number of wins on Sunday: 17
+name: Fighting Irish --> number of wins on Sunday: 1
+name: Fighting Illini --> number of wins on Sunday: 5
+name: Wolfpack --> number of wins on Sunday: 5
+name: Pirates --> number of wins on Sunday: 2
+name: Bobcats --> number of wins on Sunday: 1
+name: Miners --> number of wins on Sunday: 1
+name: Wildcats --> number of wins on Sunday: 31
+name: Longhorns --> number of wins on Sunday: 7
+name: Ducks --> number of wins on Sunday: 3
+name: Utes --> number of wins on Sunday: 2
+name: Red Storm --> number of wins on Sunday: 2
+name: Seminoles --> number of wins on Sunday: 1
+name: Orange --> number of wins on Sunday: 11
+name: Cyclones --> number of wins on Sunday: 2
+name: Badgers --> number of wins on Sunday: 3
+name: Wolverines --> number of wins on Sunday: 7
+name: Sooners --> number of wins on Sunday: 5
+name: Mountaineers --> number of wins on Sunday: 3
+name: Tar Heels --> number of wins on Sunday: 17
+name: Golden Hurricane --> number of wins on Sunday: 3
+name: Bears --> number of wins on Sunday: 3
+name: Commodores --> number of wins on Sunday: 2
+name: Mocs --> number of wins on Sunday: 1
+name: Cardinals --> number of wins on Sunday: 9
+name: Shockers --> number of wins on Sunday: 1
+name: Buckeyes --> number of wins on Sunday: 4
+name: Crimson Tide --> number of wins on Sunday: 4
+name: Bearcats --> number of wins on Sunday: 5
+name: Crusaders --> number of wins on Sunday: 1
+name: Razorbacks --> number of wins on Sunday: 5
+name: Golden Gophers --> number of wins on Sunday: 2
+name: Hawkeyes --> number of wins on Sunday: 2
+name: Vikings --> number of wins on Sunday: 1
+name: Cowboys --> number of wins on Sunday: 5
+name: Gamecocks --> number of wins on Sunday: 2
+name: Bulldogs --> number of wins on Sunday: 5
+name: Salukis --> number of wins on Sunday: 2
+name: Demon Deacons --> number of wins on Sunday: 2
+name: Red Raiders --> number of wins on Sunday: 1
+name: Blue Demons --> number of wins on Sunday: 1
+name: RedHawks --> number of wins on Sunday: 1
+name: Patriots --> number of wins on Sunday: 2
